@@ -16,7 +16,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="#">About System</a></li>
+                <li><a href="pages/about.blade.php">About System</a></li>
                 <li><a href="#">Mission and Vision</a></li>
               </ul>
             </li>

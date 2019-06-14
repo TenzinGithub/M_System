@@ -3,10 +3,10 @@
 @section('content')
 <html>
  <head>
-  <title>About US</title>
+  <title>Teaching Staff List</title>
  </head>
   <body>
-   <h1> Welcome to about Page </html>
+   <h1> Welcome to teaching staff Page </html>
    </body>
 </html>
 @endsection
